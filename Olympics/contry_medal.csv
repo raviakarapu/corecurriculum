@@ -1,0 +1,208 @@
+,nationality,tot_med,country
+0,AFG,0,Afghanistan
+1,ALB,0,Albania
+2,ALG,2,Algeria
+3,AND,0,Andorra
+4,ANG,0,Angola
+5,ANT,0,Antigua and Barbuda
+6,ARG,22,Argentina
+7,ARM,4,Armenia
+8,ARU,0,Aruba*
+9,ASA,0,American Samoa*
+10,AUS,82,Australia
+11,AUT,2,Austria
+12,AZE,18,Azerbaijan
+13,BAH,6,Bahamas
+14,BAN,0,Bangladesh
+15,BAR,0,Barbados
+16,BDI,1,Burundi
+17,BEL,21,Belgium
+18,BEN,0,Benin
+19,BER,0,Bermuda*
+20,BHU,0,Bhutan
+21,BIH,0,Bosnia and Herzegovina
+22,BIZ,0,Belize
+23,BLR,12,Belarus
+24,BOL,0,Bolivia
+25,BOT,0,Botswana
+26,BRA,51,Brazil
+27,BRN,2,Bahrain
+28,BRU,0,Brunei
+29,BUL,7,Bulgaria
+30,BUR,0,Burkina Faso
+31,CAF,0,Central African Republic
+32,CAM,0,Cambodia
+33,CAN,69,Canada
+34,CAY,0,Cayman Islands*
+35,CGO,0,Congo
+36,CHA,0,Chad
+37,CHI,0,Chile
+38,CHN,113,China
+39,CIV,2,Cote d'Ivoire
+40,CMR,0,Cameroon
+41,COD,0,"Congo, Dem Rep"
+42,COK,0,Cook Islands
+43,COL,8,Colombia
+44,COM,0,Comoros
+45,CPV,0,Cape Verde
+46,CRC,0,Costa Rica
+47,CRO,24,Croatia
+48,CUB,11,Cuba
+49,CYP,0,Cyprus
+50,CZE,15,Czech Republic
+51,DEN,41,Denmark
+52,DJI,0,Djibouti
+53,DMA,0,Dominica
+54,DOM,1,Dominican Republic
+55,ECU,0,Ecuador
+56,EGY,3,Egypt
+57,ERI,0,Eritrea
+58,ESA,0,El Salvador
+59,ESP,45,Spain
+60,EST,4,Estonia
+61,ETH,8,Ethiopia
+62,FIJ,13,Fiji
+63,FIN,1,Finland
+64,FRA,95,France
+65,FSM,0,Micronesia
+66,GAB,0,Gabon
+67,GAM,0,Gambia
+68,GBR,145,United Kingdom
+69,GBS,0,Guinea-Bissau
+70,GEO,7,Georgia
+71,GEQ,0,Equatorial Guinea
+72,GER,160,Germany
+73,GHA,0,Ghana
+74,GRE,7,Greece
+75,GRN,1,Grenada
+76,GUA,0,Guatemala
+77,GUI,0,Guinea
+78,GUM,0,Guam
+79,GUY,0,Guyana
+80,HAI,0,Haiti
+81,HKG,0,Hong Kong*
+82,HON,0,Honduras
+83,HUN,22,Hungary
+84,INA,4,Indonesia
+85,IND,2,India
+86,IOA,2,
+87,IRI,8,Iran
+88,IRL,3,Ireland
+89,IRQ,0,Iraq
+90,ISL,0,Iceland
+91,ISR,2,Israel
+92,ISV,0,Virgin Islands*
+93,ITA,72,Italy
+94,IVB,0,British Virgin Islands
+95,JAM,30,Jamaica
+96,JOR,1,Jordan
+97,JPN,65,Japan
+98,KAZ,17,Kazakhstan
+99,KEN,13,Kenya
+100,KGZ,0,Kyrgyzstan
+101,KIR,0,
+102,KOR,26,"Korea, South"
+103,KOS,1,
+104,KSA,0,Saudi Arabia
+105,LAO,0,Laos
+106,LAT,0,Latvia
+107,LBA,0,Libya
+108,LBR,0,Liberia
+109,LCA,0,Saint Lucia
+110,LES,0,Lesotho
+111,LIB,0,Lebanon
+112,LIE,0,Liechtenstein
+113,LTU,7,Lithuania
+114,LUX,0,Luxembourg
+115,MAD,0,Madagascar
+116,MAR,1,Morocco
+117,MAS,8,Malaysia
+118,MAW,0,Malawi
+119,MDA,1,Moldova
+120,MDV,0,Maldives
+121,MEX,5,Mexico
+122,MGL,2,Mongolia
+123,MHL,0,
+124,MKD,0,Macedonia
+125,MLI,0,Mali
+126,MLT,0,Malta
+127,MNE,0,
+128,MON,0,Monaco
+129,MOZ,0,Mozambique
+130,MRI,0,Mauritius
+131,MTN,0,Mauritania
+132,MYA,0,Burma
+133,NAM,0,Namibia
+134,NCA,0,Nicaragua
+135,NED,47,Netherlands
+136,NEP,0,Nepal
+137,NGR,18,Nigeria
+138,NIG,1,Niger
+139,NOR,19,Norway
+140,NRU,0,Nauru
+141,NZL,36,New Zealand
+142,OMA,0,Oman
+143,PAK,0,Pakistan
+144,PAN,0,Panama
+145,PAR,0,Paraguay
+146,PER,0,Peru
+147,PHI,1,Philippines
+148,PLE,0,"Palestine, Occupied Territories"
+149,PLW,0,Palau
+150,PNG,0,Papua New Guinea
+151,POL,16,Poland
+152,POR,1,Portugal
+153,PRK,7,"Korea, North"
+154,PUR,1,Puerto Rico*
+155,QAT,1,Qatar
+156,ROT,0,
+157,ROU,17,
+158,RSA,23,South Africa
+159,RUS,115,Russia
+160,RWA,0,Rwanda
+161,SAM,0,Samoa
+162,SEN,0,Senegal
+163,SEY,0,Seychelles
+164,SIN,1,Singapore
+165,SKN,0,Saint Kitts and Nevis
+166,SLE,0,Sierra Leone
+167,SLO,4,Slovenia
+168,SMR,0,San Marino
+169,SOL,0,Solomon Islands
+170,SOM,0,Somalia
+171,SRB,53,
+172,SRI,0,Sri Lanka
+173,SSD,0,
+174,STP,0,Sao Tome and Principe
+175,SUD,0,Sudan
+176,SUI,11,Switzerland
+177,SUR,0,Suriname
+178,SVK,8,Slovakia
+179,SWE,28,Sweden
+180,SWZ,0,Swaziland
+181,SYR,0,Syria
+182,TAN,0,Tanzania
+183,TGA,0,Tonga
+184,THA,6,Thailand
+185,TJK,1,Tajikistan
+186,TKM,0,Turkmenistan
+187,TLS,0,East Timor (Timor-Leste)
+188,TOG,0,Togo
+189,TPE,5,Taiwan
+190,TTO,1,
+191,TUN,3,Tunisia
+192,TUR,8,Turkey
+193,TUV,0,
+194,UAE,1,United Arab Emirates
+195,UGA,0,Uganda
+196,UKR,15,Ukraine
+197,URU,0,Uruguay
+198,USA,264,United States
+199,UZB,13,Uzbekistan
+200,VAN,0,Vanuatu
+201,VEN,3,Venezuela
+202,VIE,2,Vietnam
+203,VIN,0,Saint Vincent and the Grenadines
+204,YEM,0,Yemen
+205,ZAM,0,Zambia
+206,ZIM,0,Zimbabwe
